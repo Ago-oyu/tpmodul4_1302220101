@@ -1,0 +1,15 @@
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.AssemblyInfoInputs.cache
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.AssemblyInfo.cs
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.csproj.CoreCompileInputs.cache
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.sourcelink.json
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\bin\Debug\net8.0\tpmodul4_1302220101.exe
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\bin\Debug\net8.0\tpmodul4_1302220101.deps.json
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\bin\Debug\net8.0\tpmodul4_1302220101.runtimeconfig.json
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\bin\Debug\net8.0\tpmodul4_1302220101.dll
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\bin\Debug\net8.0\tpmodul4_1302220101.pdb
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.dll
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\refint\tpmodul4_1302220101.dll
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.pdb
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\tpmodul4_1302220101.genruntimeconfig.cache
+D:\#Kuliah\Tel-U\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Mod 4\tpmodul4_1302220101\tpmodul4_1302220101\obj\Debug\net8.0\ref\tpmodul4_1302220101.dll
