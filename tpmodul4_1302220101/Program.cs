@@ -6,6 +6,18 @@ public class Program
     public static void Main(string[] args)
     {
         KodePos kp = new KodePos();
-        Console.WriteLine(kp.GetKodePos("Samoja"));
+
+        Console.Write("Nama Kecamatan : ");
+        String kecamatan = Console.ReadLine();
+        Console.WriteLine("Kode Pos : " + kp.GetKodePos(kecamatan));
+
+        DoorMachine dm = new DoorMachine();
+        Console.Write("Trigger : ");
+        String trigger = Console.ReadLine();
+        dm.changeState(trigger);
+        Console.Write("Trigger : ");
+        trigger = Console.ReadLine();
+        dm.changeState(trigger);
+
     }
 }
